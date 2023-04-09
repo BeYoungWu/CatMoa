@@ -37,57 +37,52 @@ http://3.36.132.159:8081/project_catmoa/
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-
-<hr>
+<br>
 
 ## ⌨ What I Made ⌨
-<br>
 <h3>1. 쪽지 기능</h3>
-<br>
 <h4>쪽지 쓰기 (전체)</h4>
 <img src="https://user-images.githubusercontent.com/116334811/229574054-4ddf9d48-5c5c-412e-b0e0-af308bdf9318.png">
-<br><br><br>
+<br><br>
 <h4>쪽지 쓰기 (즐겨찾기 기능)</h4>
 <img src="https://user-images.githubusercontent.com/116334811/229575025-2ad0a92e-292b-4020-adb4-53c25340bcd2.png">
 <br><br><br>
 <h4>쪽지 쓰기 (즐겨찾기 기능 -> 직접입력 기능)</h4>
 <img src="https://user-images.githubusercontent.com/116334811/229575426-3841d9e6-6ac7-4507-a700-f17022e66465.png">
-<br><br><br>
+<br><br>
 <h4>쪽지 쓰기 (첨부파일 기능)</h4>
 <img src="https://user-images.githubusercontent.com/116334811/229575891-5d254666-d742-4f11-8fa0-a5d79b70b290.png">
-<br><br><br>
+<br><br>
 <h4>쪽지 쓰기 (유효성 검사)</h4>
 <img src="https://user-images.githubusercontent.com/116334811/229577012-e72bc4c2-7a93-4516-9b8d-0e88df2754a6.png">
-<br><br><br>
-<h4>받은 쪽지함 (목록)</h4>
+<br><br>
+<h4>받은 쪽지함 (List)</h4>
 <img src="https://user-images.githubusercontent.com/116334811/229578547-cd0e1bec-0629-40e0-b8a9-d27d37e394a8.png">
-<br><br><br>
-<h4>받은 쪽지함 (디테일)</h4>
+<br><br>
+<h4>받은 쪽지함 (Detail)</h4>
 <img src="https://user-images.githubusercontent.com/116334811/229579028-2f011b5a-f064-4975-9731-e1b7c874966b.png">
-<br><br><br>
-<h4>받은 쪽지함 (디테일) -> 첨부파일 다운로드 기능</h4>
+<br><br>
+<h4>받은 쪽지함 (Detail) -> 첨부파일 다운로드 기능</h4>
 <img src="https://user-images.githubusercontent.com/116334811/229579668-701e026b-be12-4fd9-963b-d9c6a7bb68dc.png">
-<br><br><br>
-<h4>받은 쪽지함 (디테일) -> 답장 기능 (제목에 'Re:' 자동 기입 + 받는 사람 닉네임 자동 기입)</h4>
+<br><br>
+<h4>받은 쪽지함 (Detail) -> 답장 기능 (제목에 'Re:' 자동 기입 + 받는 사람 닉네임 자동 기입)</h4>
 <img src="https://user-images.githubusercontent.com/116334811/229580291-e6e1600f-71f3-40a3-80c4-c180b2ff7ad0.png">
-<br><br><br>
+<br><br>
 
+<br>
 
-
-
-
-
-<h3>2. 관리자 페이지</h3>
+<h3>2. 관리자 페이지 (Interceptor도 구현)</h3>
 <br>
 <h4>회원 관리 (전체)</h4>
-<img src="">
-<br><br><br>
+<img src="https://user-images.githubusercontent.com/116334811/229737655-f2f67f38-4234-4587-adbb-7fbdf2840836.png">
+<br><br>
 <h4>회원 관리 (관리자 권한 부여 기능)</h4>
-<img src="">
-<br><br><br>
+<img src="https://user-images.githubusercontent.com/116334811/229737972-ffac5cb3-de4f-4e37-bfa4-06a96e058a22.png">
+<br><br>
 <h4>회원 관리 (일반회원 권한 부여 기능)</h4>
-<img src="">
-<br><br><br>
-
+<img src="https://user-images.githubusercontent.com/116334811/229738304-eba58e40-104c-49f7-aead-be7349d74f89.png">
+<br><br>
+<h4>지역 등록 (메인페이지 지도에서 띄울 지역핑에 대한 정보 등록)</h4>
+<img src="https://user-images.githubusercontent.com/116334811/229777961-9b84fbe9-6acb-44d1-a49c-25ef8dbb7637.png">
 
 </div>
